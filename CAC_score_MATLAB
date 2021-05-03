@@ -1,6 +1,6 @@
 function [Data_Ag, lesion_info_Ag, sumdata_Ag, pixelsize, TTF, NPS] = CACscore(scans, method)
 %Calcium scoring script
-%Gijs van Praagh - g.d.van.praagh@umcg.nl
+%Authors: Gijs van Praagh (g.d.van.praagh@umcg.nl) / Niels van der Werf (n.vanderwerf@erasmusmc.nl)
 %May 2021
 %version 1.0
 
